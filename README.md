@@ -1,1 +1,3 @@
 # typeScript_learning_projects
+
+Learn typeScript object with real world examples...
